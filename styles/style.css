@@ -1,0 +1,70 @@
+body {
+  background-color: white;
+}
+
+.ul-style li {
+  padding-left: 90px;
+  font-size: 20px;
+}
+
+.banner-style {
+  /* width: 1170px;
+  height: 483px; */
+}
+
+.bg-green {
+  background-color: #1DAB55;
+}
+
+.text-green {
+  color: #1DAB55;
+}
+
+.first-bg {
+  background-color: #F4F7FD;
+}
+
+.second-bg {
+  background-color: #000000;
+}
+
+.third-bg {
+  background-color: #111827;
+}
+
+.p-color {
+  color: #676F7C;
+}
+
+.fourth-bg {
+  background-color: #676F7C;
+}
+
+.card-hover:hover {
+  border: 1px solid salmon;
+  transition: 0.5s;
+  transform: scale(1.05);
+}
+
+.fifth-bg {
+  background-color: #121220;
+}
+
+.text-hover:hover {
+  border: 10px solid blue;
+}
+
+.icon-style a {
+  font-size: 18px;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  padding: 2px 7px;
+  margin: 0 10px;
+}
+
+
+.col:hover {
+  /* transform: scale(1.05);
+  transition: all 0.3s; */
+}
